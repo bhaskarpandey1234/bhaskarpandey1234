@@ -9,10 +9,10 @@
 
 ### 🖥️ Frontend:
 - HTML | CSS | JavaScript | TypeScript  
-- React.js | Vite | TailwindCSS | Material UI | Bootstrap
+- React.js| Next.js | Vite | TailwindCSS | Material UI | Bootstrap
 
 ### ⚙️ Backend:
-- Java | Spring Boot | NestJS | Node.js  
+- Java | Spring Boot | NestJS | Node.js | Express.js
 - REST APIs | JWT | OAuth | PostgreSQL | MongoDB | MySQL
 
 ### ☁️ Tools & DevOps:
